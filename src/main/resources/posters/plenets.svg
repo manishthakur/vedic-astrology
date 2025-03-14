@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .list-item {
+      stroke: #000;
+      stroke-width: 1;
+      fill: #f9f9f9;
+    }
+    .heading {
+      font: bold 28px sans-serif;
+    }
+    .title {
+      font: bold 16px sans-serif;
+    }
+    .text {
+      font: 14px sans-serif;
+    }
+  </style>
+  
+  <!-- White background -->
+  <rect width="100%" height="100%" fill="white"/>
+  
+  <!-- Poster Heading -->
+  <text x="600" y="40" text-anchor="middle" class="heading">
+    Planets Poster: Details in Hindi and English
+  </text>
+  
+  <!-- Sun (1) -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#FFFDE7"/>
+    <text x="10" y="25" class="title">1. Sun (सूर्य)</text>
+    <text x="10" y="45" class="text">Colors: Red, Gold | रंग: लाल, सुनहरा</text>
+    <text x="10" y="65" class="text">Represents: Authority, vitality, leadership | प्रतिनिधित्व: प्रमुखता, जीवन शक्ति, नेतृत्व</text>
+    <text x="10" y="85" class="text">Gender: Masculine | लिंग: पुल्लिंग | Nature: Benefic | प्रकृति: कल्याणकारी | Varnas: Kshatriya | वर्ण: क्षत्रिय</text>
+  </g>
+  
+  <!-- Moon (2) -->
+  <g transform="translate(50, 190)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#E3F2FD"/>
+    <text x="10" y="25" class="title">2. Moon (चंद्र)</text>
+    <text x="10" y="45" class="text">Colors: White, Silver | रंग: सफेद, चांदी</text>
+    <text x="10" y="65" class="text">Represents: Mind, emotions, nurturing | प्रतिनिधित्व: मन, भावनाएँ, पोषण</text>
+    <text x="10" y="85" class="text">Gender: Feminine | लिंग: स्त्री | Nature: Benefic | प्रकृति: कल्याणकारी | Varnas: Brahmin | वर्ण: ब्राह्मण</text>
+  </g>
+  
+  <!-- Mars (3) -->
+  <g transform="translate(50, 310)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#FFCDD2"/>
+    <text x="10" y="25" class="title">3. Mars (मंगल)</text>
+    <text x="10" y="45" class="text">Colors: Red, Scarlet | रंग: लाल, गहरा लाल</text>
+    <text x="10" y="65" class="text">Represents: Energy, courage, aggression | प्रतिनिधित्व: ऊर्जा, साहस, आक्रामकता</text>
+    <text x="10" y="85" class="text">Gender: Masculine | लिंग: पुल्लिंग | Nature: Malefic | प्रकृति: हानिकारक | Varnas: Kshatriya | वर्ण: क्षत्रिय</text>
+  </g>
+  
+  <!-- Mercury (4) -->
+  <g transform="translate(50, 430)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#E8F5E9"/>
+    <text x="10" y="25" class="title">4. Mercury (बुध)</text>
+    <text x="10" y="45" class="text">Colors: Green | रंग: हरा</text>
+    <text x="10" y="65" class="text">Represents: Communication, intellect, learning | प्रतिनिधित्व: संचार, बुद्धिमत्ता, ज्ञान</text>
+    <text x="10" y="85" class="text">Gender: Masculine | लिंग: पुल्लिंग | Nature: Benefic | प्रकृति: कल्याणकारी | Varnas: Vaishya | वर्ण: वैश्य</text>
+  </g>
+  
+  <!-- Jupiter (5) -->
+  <g transform="translate(50, 550)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#FFF3E0"/>
+    <text x="10" y="25" class="title">5. Jupiter (बृहस्पति / गुरु)</text>
+    <text x="10" y="45" class="text">Colors: Yellow, Saffron | रंग: पीला, केसरिया</text>
+    <text x="10" y="65" class="text">Represents: Wisdom, expansion, growth, fortune | प्रतिनिधित्व: बुद्धि, विकास, वृद्धि, भाग्य</text>
+    <text x="10" y="85" class="text">Gender: Masculine | लिंग: पुल्लिंग | Nature: Benefic | प्रकृति: कल्याणकारी | Varnas: Brahmin | वर्ण: ब्राह्मण</text>
+  </g>
+  
+  <!-- Venus (6) -->
+  <g transform="translate(50, 670)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#E1F5FE"/>
+    <text x="10" y="25" class="title">6. Venus (शुक्र)</text>
+    <text x="10" y="45" class="text">Colors: White, Light Blue | रंग: सफेद, हल्का नीला</text>
+    <text x="10" y="65" class="text">Represents: Love, beauty, art, luxury | प्रतिनिधित्व: प्रेम, सौंदर्य, कला, विलासिता</text>
+    <text x="10" y="85" class="text">Gender: Feminine | लिंग: स्त्री | Nature: Benefic | प्रकृति: कल्याणकारी | Varnas: Shudra | वर्ण: शूद्र</text>
+  </g>
+  
+  <!-- Saturn (7) -->
+  <g transform="translate(50, 790)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#E0E0E0"/>
+    <text x="10" y="25" class="title">7. Saturn (शनि)</text>
+    <text x="10" y="45" class="text">Colors: Black, Dark Blue | रंग: काला, गाढ़ा नीला</text>
+    <text x="10" y="65" class="text">Represents: Discipline, structure, challenges, karmic lessons | प्रतिनिधित्व: अनुशासन, संरचना, चुनौतियाँ, कर्मकांड</text>
+    <text x="10" y="85" class="text">Gender: Masculine | लिंग: पुल्लिंग | Nature: Malefic | प्रकृति: हानिकारक | Varnas: Shudra | वर्ण: शूद्र</text>
+  </g>
+  
+  <!-- Rahu (8) -->
+  <g transform="translate(50, 910)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#F3E5F5"/>
+    <text x="10" y="25" class="title">8. Rahu (राहु)</text>
+    <text x="10" y="45" class="text">Colors: Smoky, Dark Green | रंग: धुएँ जैसा, गहरा हरा</text>
+    <text x="10" y="65" class="text">Represents: Obsession, materialism, illusion | प्रतिनिधित्व: आसक्ति, भौतिकता, माया</text>
+    <text x="10" y="85" class="text">Gender: Masculine | लिंग: पुल्लिंग | Nature: Malefic | प्रकृति: हानिकारक | Varnas: Shudra | वर्ण: शूद्र</text>
+  </g>
+  
+  <!-- Ketu (9) -->
+  <g transform="translate(50, 1030)">
+    <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#EDE7F6"/>
+    <text x="10" y="25" class="title">9. Ketu (केतु)</text>
+    <text x="10" y="45" class="text">Colors: Smoky, Purple | रंग: धुएँ जैसा, बैंगनी</text>
+    <text x="10" y="65" class="text">Represents: Spirituality, detachment, liberation | प्रतिनिधित्व: आध्यात्मिकता, विरक्ति, मुक्ति</text>
+    <text x="10" y="85" class="text">Gender: Feminine | लिंग: स्त्री | Nature: Malefic | प्रकृति: हानिकारक | Varnas: Shudra | वर्ण: शूद्र</text>
+  </g>
+  
+</svg>

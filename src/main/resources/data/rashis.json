@@ -1,0 +1,244 @@
+{
+  "rashis": [
+    {
+      "id": 1,
+      "rashi_name": {
+        "en": "Aries (Mesha)",
+        "hi": "मेष"
+      },
+      "description": {
+        "en": "Aries represents leadership, initiative, and passion.",
+        "hi": "मेष राशि नेतृत्व, पहल, और उत्साह का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Courageous, energetic, and confident.",
+        "hi": "साहसी, ऊर्जावान, और आत्मविश्वासी।"
+      },
+      "lord": {
+        "en": "Mars",
+        "hi": "मंगल"
+      },
+      "ikon": "♈"
+    },
+    {
+      "id": 2,
+      "rashi_name": {
+        "en": "Taurus (Vrishabha)",
+        "hi": "वृषभ"
+      },
+      "description": {
+        "en": "Taurus stands for stability, reliability, and a love for luxury.",
+        "hi": "वृषभ राशि स्थिरता, विश्वसनीयता, और विलासिता के प्रेम का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Practical, patient, and persistent.",
+        "hi": "व्यावहारिक, धैर्यवान, और स्थिर।"
+      },
+      "lord": {
+        "en": "Venus",
+        "hi": "शुक्र"
+      },
+      "ikon": "♉"
+    },
+    {
+      "id": 3,
+      "rashi_name": {
+        "en": "Gemini (Mithuna)",
+        "hi": "मिथुन"
+      },
+      "description": {
+        "en": "Gemini represents communication, adaptability, and versatility.",
+        "hi": "मिथुन राशि संवाद, अनुकूलता, और बहुमुखी प्रतिभा का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Curious, sociable, and quick-witted.",
+        "hi": "जिज्ञासु, मिलनसार, और तेज़ बुद्धि।"
+      },
+      "lord": {
+        "en": "Mercury",
+        "hi": "बुध"
+      },
+      "ikon": "♊"
+    },
+    {
+      "id": 4,
+      "rashi_name": {
+        "en": "Cancer (Karka)",
+        "hi": "कर्क"
+      },
+      "description": {
+        "en": "Cancer signifies emotional depth, intuition, and nurturing.",
+        "hi": "कर्क राशि भावनात्मक गहराई, अंतर्दृष्टि, और पोषण का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Caring, empathetic, and protective.",
+        "hi": "स्नेही, सहानुभूतिपूर्ण, और रक्षात्मक।"
+      },
+      "lord": {
+        "en": "Moon",
+        "hi": "चंद्र"
+      },
+      "ikon": "♋"
+    },
+    {
+      "id": 5,
+      "rashi_name": {
+        "en": "Leo (Simha)",
+        "hi": "सिंह"
+      },
+      "description": {
+        "en": "Leo is associated with strength, creativity, and leadership.",
+        "hi": "सिंह राशि शक्ति, रचनात्मकता, और नेतृत्व का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Confident, ambitious, and generous.",
+        "hi": "आत्मविश्वासी, महत्वाकांक्षी, और उदार।"
+      },
+      "lord": {
+        "en": "Sun",
+        "hi": "सूर्य"
+      },
+      "ikon": "♌"
+    },
+    {
+      "id": 6,
+      "rashi_name": {
+        "en": "Virgo (Kanya)",
+        "hi": "कन्या"
+      },
+      "description": {
+        "en": "Virgo represents diligence, practicality, and analytical ability.",
+        "hi": "कन्या राशि परिश्रम, व्यावहारिकता, और विश्लेषणात्मक क्षमता का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Analytical, meticulous, and reliable.",
+        "hi": "विश्लेषणात्मक, सूक्ष्म, और विश्वसनीय।"
+      },
+      "lord": {
+        "en": "Mercury",
+        "hi": "बुध"
+      },
+      "ikon": "♍"
+    },
+    {
+      "id": 7,
+      "rashi_name": {
+        "en": "Libra (Tula)",
+        "hi": "तुला"
+      },
+      "description": {
+        "en": "Libra stands for balance, harmony, and a strong sense of justice.",
+        "hi": "तुला राशि संतुलन, सामंजस्य, और न्याय की भावना का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Charming, diplomatic, and social.",
+        "hi": "मोहक, कूटनीतिक, और सामाजिक।"
+      },
+      "lord": {
+        "en": "Venus",
+        "hi": "शुक्र"
+      },
+      "ikon": "♎"
+    },
+    {
+      "id": 8,
+      "rashi_name": {
+        "en": "Scorpio (Vrishchika)",
+        "hi": "वृश्चिक"
+      },
+      "description": {
+        "en": "Scorpio signifies intensity, transformation, and passion.",
+        "hi": "वृश्चिक राशि तीव्रता, परिवर्तन, और जुनून का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Passionate, resourceful, and determined.",
+        "hi": "जुनूनी, संसाधन संपन्न, और दृढ़संकल्प।"
+      },
+      "lord": {
+        "en": "Mars",
+        "hi": "मंगल"
+      },
+      "ikon": "♏"
+    },
+    {
+      "id": 9,
+      "rashi_name": {
+        "en": "Sagittarius (Dhanu)",
+        "hi": "धनु"
+      },
+      "description": {
+        "en": "Sagittarius represents wisdom, optimism, and exploration.",
+        "hi": "धनु राशि ज्ञान, आशावाद, और अन्वेषण का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Adventurous, philosophical, and honest.",
+        "hi": "साहसी, दार्शनिक, और ईमानदार।"
+      },
+      "lord": {
+        "en": "Jupiter",
+        "hi": "गुरु"
+      },
+      "ikon": "♐"
+    },
+    {
+      "id": 10,
+      "rashi_name": {
+        "en": "Capricorn (Makara)",
+        "hi": "मकर"
+      },
+      "description": {
+        "en": "Capricorn stands for discipline, responsibility, and ambition.",
+        "hi": "मकर राशि अनुशासन, जिम्मेदारी, और महत्वाकांक्षा का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Disciplined, pragmatic, and determined.",
+        "hi": "अनुशासित, व्यावहारिक, और दृढ़संकल्प।"
+      },
+      "lord": {
+        "en": "Saturn",
+        "hi": "शनि"
+      },
+      "ikon": "♑"
+    },
+    {
+      "id": 11,
+      "rashi_name": {
+        "en": "Aquarius (Kumbha)",
+        "hi": "कुंभ"
+      },
+      "description": {
+        "en": "Aquarius signifies innovation, independence, and humanitarian spirit.",
+        "hi": "कुंभ राशि नवाचार, स्वतंत्रता, और मानवतावादी भावना का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Innovative, independent, and idealistic.",
+        "hi": "नवाचारी, स्वतंत्र, और आदर्शवादी।"
+      },
+      "lord": {
+        "en": "Saturn",
+        "hi": "शनि"
+      },
+      "ikon": "♒"
+    },
+    {
+      "id": 12,
+      "rashi_name": {
+        "en": "Pisces (Meena)",
+        "hi": "मीन"
+      },
+      "description": {
+        "en": "Pisces represents empathy, creativity, and spirituality.",
+        "hi": "मीन राशि सहानुभूति, रचनात्मकता, और आध्यात्मिकता का प्रतीक है।"
+      },
+      "characteristics": {
+        "en": "Compassionate, artistic, and intuitive.",
+        "hi": "दयालु, कलात्मक, और अंतर्ज्ञानी।"
+      },
+      "lord": {
+        "en": "Jupiter",
+        "hi": "गुरु"
+      },
+      "ikon": "♓"
+    }
+  ]
+}

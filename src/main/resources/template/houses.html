@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>North Indian Kundali Chart</title>
+    <!-- Include D3.js from a CDN -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #f0f0f0;
+        }
+        svg {
+            background-color: #fff;
+            display: block;
+            margin: 20px auto;
+            border: 1px solid #ccc;
+        }
+        text {
+            font-family: sans-serif;
+            font-size: 14px;
+            fill: #333;
+        }
+    </style>
+</head>
+<body>
+<script>
+    // Wait for the DOM to fully load
+    document.addEventListener('DOMContentLoaded', function() {
+        const width = 500, height = 500;
+        const svg = d3.select("body")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+        const centerX = width / 2;
+        const centerY = height / 2;
+        const diamondRadius = 200;
+
+        // Calculate the four vertices of the diamond
+        const top = { x: centerX, y: centerY - diamondRadius };
+        const right = { x: centerX + diamondRadius, y: centerY };
+        const bottom = { x: centerX, y: centerY + diamondRadius };
+        const left = { x: centerX - diamondRadius, y: centerY };
+
+        // Draw the outer diamond
+        svg.append("polygon")
+            .attr("points", [top, right, bottom, left]
+                .map(d => `${d.x},${d.y}`).join(" "))
+            .attr("fill", "none")
+            .attr("stroke", "black")
+            .attr("stroke-width", 2);
+
+        // Draw a vertical line through the center
+        svg.append("line")
+            .attr("x1", centerX)
+            .attr("y1", top.y)
+            .attr("x2", centerX)
+            .attr("y2", bottom.y)
+            .attr("stroke", "black");
+
+        // Draw a horizontal line through the center
+        svg.append("line")
+            .attr("x1", left.x)
+            .attr("y1", centerY)
+            .attr("x2", right.x)
+            .attr("y2", centerY)
+            .attr("stroke", "black");
+
+        // Optional dashed diagonal lines for extra subdivisions
+        svg.append("line")
+            .attr("x1", top.x)
+            .attr("y1", top.y)
+            .attr("x2", bottom.x)
+            .attr("y2", bottom.y)
+            .attr("stroke", "gray")
+            .attr("stroke-dasharray", "5,5");
+
+        svg.append("line")
+            .attr("x1", left.x)
+            .attr("y1", left.y)
+            .attr("x2", right.x)
+            .attr("y2", right.y)
+            .attr("stroke", "gray")
+            .attr("stroke-dasharray", "5,5");
+
+        // Place house labels (positions are approximate)
+        svg.append("text")
+            .attr("x", centerX)
+            .attr("y", top.y - 10)
+            .attr("text-anchor", "middle")
+            .text("House 1");
+
+        svg.append("text")
+            .attr("x", left.x - 40)
+            .attr("y", centerY + 5)
+            .attr("text-anchor", "middle")
+            .text("House 4");
+
+        svg.append("text")
+            .attr("x", right.x + 40)
+            .attr("y", centerY + 5)
+            .attr("text-anchor", "middle")
+            .text("House 7");
+
+        svg.append("text")
+            .attr("x", centerX)
+            .attr("y", bottom.y + 20)
+            .attr("text-anchor", "middle")
+            .text("House 10");
+
+        // Additional house labels for inner segments
+        svg.append("text")
+            .attr("x", centerX - 100)
+            .attr("y", centerY - 100)
+            .attr("text-anchor", "middle")
+            .text("House 2");
+
+        svg.append("text")
+            .attr("x", centerX - 150)
+            .attr("y", centerY - 20)
+            .attr("text-anchor", "middle")
+            .text("House 3");
+
+        svg.append("text")
+            .attr("x", centerX - 100)
+            .attr("y", centerY + 100)
+            .attr("text-anchor", "middle")
+            .text("House 5");
+
+        svg.append("text")
+            .attr("x", centerX - 50)
+            .attr("y", centerY + 150)
+            .attr("text-anchor", "middle")
+            .text("House 6");
+
+        svg.append("text")
+            .attr("x", centerX + 100)
+            .attr("y", centerY + 100)
+            .attr("text-anchor", "middle")
+            .text("House 8");
+
+        svg.append("text")
+            .attr("x", centerX + 150)
+            .attr("y", centerY - 20)
+            .attr("text-anchor", "middle")
+            .text("House 9");
+
+        svg.append("text")
+            .attr("x", centerX + 100)
+            .attr("y", centerY - 100)
+            .attr("text-anchor", "middle")
+            .text("House 11");
+
+        // A central label (if needed)
+        svg.append("text")
+            .attr("x", centerX)
+            .attr("y", centerY + 5)
+            .attr("text-anchor", "middle")
+            .text("House 12");
+    });
+</script>
+</body>
+</html>

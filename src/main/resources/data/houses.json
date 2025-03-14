@@ -1,0 +1,136 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "house_name": {
+        "en": "First House (Lagna)",
+        "hi": "प्रथम भाव (लग्न)"
+      },
+      "represents": {
+        "en": "Represents self, personality, physical appearance, overall health, and vitality.",
+        "hi": "स्वयं, व्यक्तित्व, शारीरिक रूप, सम्पूर्ण स्वास्थ्य और जीवन शक्ति का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 2,
+      "house_name": {
+        "en": "Second House",
+        "hi": "द्वितीय भाव"
+      },
+      "represents": {
+        "en": "Represents wealth, family, speech, and material possessions.",
+        "hi": "धन, परिवार, वाणी और भौतिक वस्तुओं का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 3,
+      "house_name": {
+        "en": "Third House",
+        "hi": "तृतीय भाव"
+      },
+      "represents": {
+        "en": "Represents siblings, courage, communication, short journeys, and skills.",
+        "hi": "भाई-बहन, साहस, संचार, लघु यात्राएँ और कौशल का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 4,
+      "house_name": {
+        "en": "Fourth House",
+        "hi": "चतुर्थ भाव"
+      },
+      "represents": {
+        "en": "Represents home, mother, emotional security, and comfort.",
+        "hi": "घर, माता, भावनात्मक सुरक्षा और आराम का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 5,
+      "house_name": {
+        "en": "Fifth House",
+        "hi": "पंचम भाव"
+      },
+      "represents": {
+        "en": "Represents creativity, intelligence, romance, children, and education.",
+        "hi": "रचनात्मकता, बुद्धिमत्ता, प्रेम, बच्चों और शिक्षा का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 6,
+      "house_name": {
+        "en": "Sixth House",
+        "hi": "षष्ठ भाव"
+      },
+      "represents": {
+        "en": "Represents health, service, work, enemies, and daily routines.",
+        "hi": "स्वास्थ्य, सेवा, कार्य, शत्रु और दैनिक दिनचर्या का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 7,
+      "house_name": {
+        "en": "Seventh House",
+        "hi": "सप्तम भाव"
+      },
+      "represents": {
+        "en": "Represents partnerships, marriage, relationships, and business collaborations.",
+        "hi": "साझेदारी, विवाह, संबंध और व्यावसायिक सहयोग का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 8,
+      "house_name": {
+        "en": "Eighth House",
+        "hi": "अष्टम भाव"
+      },
+      "represents": {
+        "en": "Represents transformation, longevity, mysteries, and occult matters.",
+        "hi": "परिवर्तन, दीर्घायु, रहस्य और गूढ़ विषयों का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 9,
+      "house_name": {
+        "en": "Ninth House",
+        "hi": "नवम भाव"
+      },
+      "represents": {
+        "en": "Represents fortune, spirituality, higher education, long journeys, and wisdom.",
+        "hi": "भाग्य, आध्यात्मिकता, उच्च शिक्षा, दीर्घ यात्राएँ और बुद्धिमत्ता का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 10,
+      "house_name": {
+        "en": "Tenth House",
+        "hi": "दशम भाव"
+      },
+      "represents": {
+        "en": "Represents career, reputation, social status, and authority.",
+        "hi": "करियर, प्रतिष्ठा, सामाजिक स्थिति और अधिकार का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 11,
+      "house_name": {
+        "en": "Eleventh House",
+        "hi": "एकादश भाव"
+      },
+      "represents": {
+        "en": "Represents gains, friendships, aspirations, and social networks.",
+        "hi": "लाभ, मित्रता, आकांक्षाएँ और सामाजिक नेटवर्क का प्रतिनिधित्व करता है।"
+      }
+    },
+    {
+      "id": 12,
+      "house_name": {
+        "en": "Twelfth House",
+        "hi": "द्वादश भाव"
+      },
+      "represents": {
+        "en": "Represents loss, expenses, isolation, liberation, and the subconscious mind.",
+        "hi": "हानि, खर्च, एकांत, मुक्ति और अवचेतन मन का प्रतिनिधित्व करता है।"
+      }
+    }
+  ]
+}

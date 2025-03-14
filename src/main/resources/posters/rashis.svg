@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1600" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .list-item {
+        stroke: #000;
+        stroke-width: 1;
+        fill: #f9f9f9;
+        }
+        .heading {
+        font: bold 28px sans-serif;
+        }
+        .title {
+        font: bold 16px sans-serif;
+        }
+        .text {
+        font: 14px sans-serif;
+        }
+    </style>
+
+    <!-- Background rectangle with white fill -->
+    <rect width="100%" height="100%" fill="white" />
+
+    <!-- Poster Heading -->
+    <text x="600" y="40" text-anchor="middle" class="heading">
+        Rashis Poster: Details in Hindi and English
+    </text>
+
+    <!-- Aries (1) -->
+    <g transform="translate(50, 70)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#e3f2fd"/>
+        <text x="10" y="25" class="title">1. Aries (मेष) ♈</text>
+        <text x="10" y="45" class="text">Description: Leadership, initiative, passion</text>
+        <text x="10" y="65" class="text">विवरण: नेतृत्व, पहल, उत्साह</text>
+        <text x="10" y="85" class="text">Characteristics: Courageous, energetic, confident | Lord: Mars / मंगल</text>
+    </g>
+
+    <!-- Taurus (2) -->
+    <g transform="translate(50, 190)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#e8f5e9"/>
+        <text x="10" y="25" class="title">2. Taurus (वृषभ) ♉</text>
+        <text x="10" y="45" class="text">Description: Stability, reliability, luxury</text>
+        <text x="10" y="65" class="text">विवरण: स्थिरता, विश्वसनीयता, विलासिता</text>
+        <text x="10" y="85" class="text">Characteristics: Practical, patient, persistent | Lord: Venus / शुक्र</text>
+    </g>
+
+    <!-- Gemini (3) -->
+    <g transform="translate(50, 310)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#fff3e0"/>
+        <text x="10" y="25" class="title">3. Gemini (मिथुन) ♊</text>
+        <text x="10" y="45" class="text">Description: Communication, adaptability, versatility</text>
+        <text x="10" y="65" class="text">विवरण: संवाद, अनुकूलता, बहुमुखी प्रतिभा</text>
+        <text x="10" y="85" class="text">Characteristics: Curious, sociable, quick-witted | Lord: Mercury / बुध</text>
+    </g>
+
+    <!-- Cancer (4) -->
+    <g transform="translate(50, 430)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#fce4ec"/>
+        <text x="10" y="25" class="title">4. Cancer (कर्क) ♋</text>
+        <text x="10" y="45" class="text">Description: Emotional depth, intuition, nurturing</text>
+        <text x="10" y="65" class="text">विवरण: भावनात्मक गहराई, अंतर्दृष्टि, पोषण</text>
+        <text x="10" y="85" class="text">Characteristics: Caring, empathetic, protective | Lord: Moon / चंद्र</text>
+    </g>
+
+    <!-- Leo (5) -->
+    <g transform="translate(50, 550)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#e1f5fe"/>
+        <text x="10" y="25" class="title">5. Leo (सिंह) ♌</text>
+        <text x="10" y="45" class="text">Description: Strength, creativity, leadership</text>
+        <text x="10" y="65" class="text">विवरण: शक्ति, रचनात्मकता, नेतृत्व</text>
+        <text x="10" y="85" class="text">Characteristics: Confident, ambitious, generous | Lord: Sun / सूर्य</text>
+    </g>
+
+    <!-- Virgo (6) -->
+    <g transform="translate(50, 670)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#f3e5f5"/>
+        <text x="10" y="25" class="title">6. Virgo (कन्या) ♍</text>
+        <text x="10" y="45" class="text">Description: Diligence, practicality, analysis</text>
+        <text x="10" y="65" class="text">विवरण: परिश्रम, व्यावहारिकता, विश्लेषण</text>
+        <text x="10" y="85" class="text">Characteristics: Analytical, meticulous, reliable | Lord: Mercury / बुध</text>
+    </g>
+
+    <!-- Libra (7) -->
+    <g transform="translate(50, 790)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#e8f5e9"/>
+        <text x="10" y="25" class="title">7. Libra (तुला) ♎</text>
+        <text x="10" y="45" class="text">Description: Balance, harmony, justice</text>
+        <text x="10" y="65" class="text">विवरण: संतुलन, सामंजस्य, न्याय</text>
+        <text x="10" y="85" class="text">Characteristics: Charming, diplomatic, social | Lord: Venus / शुक्र</text>
+    </g>
+
+    <!-- Scorpio (8) -->
+    <g transform="translate(50, 910)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#ffebee"/>
+        <text x="10" y="25" class="title">8. Scorpio (वृश्चिक) ♏</text>
+        <text x="10" y="45" class="text">Description: Intensity, transformation, passion</text>
+        <text x="10" y="65" class="text">विवरण: तीव्रता, परिवर्तन, जुनून</text>
+        <text x="10" y="85" class="text">Characteristics: Passionate, resourceful, determined | Lord: Mars / मंगल</text>
+    </g>
+
+    <!-- Sagittarius (9) -->
+    <g transform="translate(50, 1030)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#f9fbe7"/>
+        <text x="10" y="25" class="title">9. Sagittarius (धनु) ♐</text>
+        <text x="10" y="45" class="text">Description: Wisdom, exploration, optimism</text>
+        <text x="10" y="65" class="text">विवरण: बुद्धि, अन्वेषण, आशावाद</text>
+        <text x="10" y="85" class="text">Characteristics: Adventurous, philosophical, honest | Lord: Jupiter / गुरु</text>
+    </g>
+
+    <!-- Capricorn (10) -->
+    <g transform="translate(50, 1150)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#eceff1"/>
+        <text x="10" y="25" class="title">10. Capricorn (मकर) ♑</text>
+        <text x="10" y="45" class="text">Description: Discipline, responsibility, ambition</text>
+        <text x="10" y="65" class="text">विवरण: अनुशासन, जिम्मेदारी, महत्वाकांक्षा</text>
+        <text x="10" y="85" class="text">Characteristics: Disciplined, pragmatic, determined | Lord: Saturn / शनि</text>
+    </g>
+
+    <!-- Aquarius (11) -->
+    <g transform="translate(50, 1270)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#ede7f6"/>
+        <text x="10" y="25" class="title">11. Aquarius (कुंभ) ♒</text>
+        <text x="10" y="45" class="text">Description: Innovation, independence, humanitarian</text>
+        <text x="10" y="65" class="text">विवरण: नवाचार, स्वतंत्रता, मानवतावादी</text>
+        <text x="10" y="85" class="text">Characteristics: Innovative, independent, idealistic | Lord: Saturn / शनि</text>
+    </g>
+
+    <!-- Pisces (12) -->
+    <g transform="translate(50, 1390)">
+        <rect x="0" y="0" width="1100" height="100" class="list-item" fill="#f1f8e9"/>
+        <text x="10" y="25" class="title">12. Pisces (मीन) ♓</text>
+        <text x="10" y="45" class="text">Description: Empathy, creativity, spirituality</text>
+        <text x="10" y="65" class="text">विवरण: सहानुभूति, रचनात्मकता, आध्यात्मिकता</text>
+        <text x="10" y="85" class="text">Characteristics: Compassionate, artistic, intuitive | Lord: Jupiter / गुरु</text>
+    </g>
+</svg>

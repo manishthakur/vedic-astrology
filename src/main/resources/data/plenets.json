@@ -1,0 +1,247 @@
+{
+  "planets": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Sun",
+        "hi": "सूर्य"
+      },
+      "colors_associated": {
+        "en": "Red, Gold",
+        "hi": "लाल, सुनहरा"
+      },
+      "represents": {
+        "en": "Represents authority, vitality, and leadership.",
+        "hi": "प्रमुखता, जीवन शक्ति और नेतृत्व का प्रतीक।"
+      },
+      "gender": {
+        "en": "Masculine",
+        "hi": "पुल्लिंग"
+      },
+      "nature": {
+        "en": "Benefic",
+        "hi": "कल्याणकारी"
+      },
+      "varnas": {
+        "en": "Kshatriya",
+        "hi": "क्षत्रिय"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Moon",
+        "hi": "चंद्र"
+      },
+      "colors_associated": {
+        "en": "White, Silver",
+        "hi": "सफेद, चांदी"
+      },
+      "represents": {
+        "en": "Represents the mind, emotions, and nurturing qualities.",
+        "hi": "मन, भावनाओं और पोषण की विशेषताओं का प्रतीक।"
+      },
+      "gender": {
+        "en": "Feminine",
+        "hi": "स्त्री"
+      },
+      "nature": {
+        "en": "Benefic",
+        "hi": "कल्याणकारी"
+      },
+      "varnas": {
+        "en": "Brahmin",
+        "hi": "ब्राह्मण"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Mars",
+        "hi": "मंगल"
+      },
+      "colors_associated": {
+        "en": "Red, Scarlet",
+        "hi": "लाल, गहरा लाल"
+      },
+      "represents": {
+        "en": "Represents energy, courage, aggression, and drive.",
+        "hi": "ऊर्जा, साहस, आक्रामकता और प्रेरणा का प्रतीक।"
+      },
+      "gender": {
+        "en": "Masculine",
+        "hi": "पुल्लिंग"
+      },
+      "nature": {
+        "en": "Malefic",
+        "hi": "हानिकारक"
+      },
+      "varnas": {
+        "en": "Kshatriya",
+        "hi": "क्षत्रिय"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "Mercury",
+        "hi": "बुध"
+      },
+      "colors_associated": {
+        "en": "Green",
+        "hi": "हरा"
+      },
+      "represents": {
+        "en": "Represents communication, intellect, and learning.",
+        "hi": "संचार, बुद्धिमत्ता और ज्ञान का प्रतीक।"
+      },
+      "gender": {
+        "en": "Masculine",
+        "hi": "पुल्लिंग"
+      },
+      "nature": {
+        "en": "Benefic",
+        "hi": "कल्याणकारी"
+      },
+      "varnas": {
+        "en": "Vaishya",
+        "hi": "वैश्य"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "en": "Jupiter",
+        "hi": "बृहस्पति / गुरु"
+      },
+      "colors_associated": {
+        "en": "Yellow, Saffron",
+        "hi": "पीला, केसरिया"
+      },
+      "represents": {
+        "en": "Represents wisdom, expansion, growth, and fortune.",
+        "hi": "बुद्धि, विकास, वृद्धि और भाग्य का प्रतीक।"
+      },
+      "gender": {
+        "en": "Masculine",
+        "hi": "पुल्लिंग"
+      },
+      "nature": {
+        "en": "Benefic",
+        "hi": "कल्याणकारी"
+      },
+      "varnas": {
+        "en": "Brahmin",
+        "hi": "ब्राह्मण"
+      }
+    },
+    {
+      "id": 6,
+      "name": {
+        "en": "Venus",
+        "hi": "शुक्र"
+      },
+      "colors_associated": {
+        "en": "White, Light Blue",
+        "hi": "सफेद, हल्का नीला"
+      },
+      "represents": {
+        "en": "Represents love, beauty, art, and luxury.",
+        "hi": "प्रेम, सौंदर्य, कला और विलासिता का प्रतीक।"
+      },
+      "gender": {
+        "en": "Feminine",
+        "hi": "स्त्री"
+      },
+      "nature": {
+        "en": "Benefic",
+        "hi": "कल्याणकारी"
+      },
+      "varnas": {
+        "en": "Shudra",
+        "hi": "शूद्र"
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "en": "Saturn",
+        "hi": "शनि"
+      },
+      "colors_associated": {
+        "en": "Black, Dark Blue",
+        "hi": "काला, गाढ़ा नीला"
+      },
+      "represents": {
+        "en": "Represents discipline, structure, challenges, and karmic lessons.",
+        "hi": "अनुशासन, संरचना, चुनौतियाँ और कर्मकांड का प्रतीक।"
+      },
+      "gender": {
+        "en": "Masculine",
+        "hi": "पुल्लिंग"
+      },
+      "nature": {
+        "en": "Malefic",
+        "hi": "हानिकारक"
+      },
+      "varnas": {
+        "en": "Shudra",
+        "hi": "शूद्र"
+      }
+    },
+    {
+      "id": 8,
+      "name": {
+        "en": "Rahu (North Node)",
+        "hi": "राहु (उत्तर छेद)"
+      },
+      "colors_associated": {
+        "en": "Smoky, Dark Green",
+        "hi": "धुएँ जैसा, गहरा हरा"
+      },
+      "represents": {
+        "en": "Represents obsession, materialism, and illusion.",
+        "hi": "आसक्ति, भौतिकता और माया का प्रतीक।"
+      },
+      "gender": {
+        "en": "Masculine",
+        "hi": "पुल्लिंग"
+      },
+      "nature": {
+        "en": "Malefic",
+        "hi": "हानिकारक"
+      },
+      "varnas": {
+        "en": "Shudra",
+        "hi": "शूद्र"
+      }
+    },
+    {
+      "id": 9,
+      "name": {
+        "en": "Ketu (South Node)",
+        "hi": "केतु (दक्षिण छेद)"
+      },
+      "colors_associated": {
+        "en": "Smoky, Purple",
+        "hi": "धुएँ जैसा, बैंगनी"
+      },
+      "represents": {
+        "en": "Represents spirituality, detachment, and liberation.",
+        "hi": "आध्यात्मिकता, विरक्ति और मुक्ति का प्रतीक।"
+      },
+      "gender": {
+        "en": "Feminine",
+        "hi": "स्त्री"
+      },
+      "nature": {
+        "en": "Malefic",
+        "hi": "हानिकारक"
+      },
+      "varnas": {
+        "en": "Shudra",
+        "hi": "शूद्र"
+      }
+    }
+  ]
+}
